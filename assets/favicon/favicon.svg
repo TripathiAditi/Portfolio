@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Scales of Justice Favicon — Maroon Theme -->
+  <rect width="64" height="64" rx="8" fill="#6b1d1d"/>
+  <!-- Center pillar -->
+  <rect x="30" y="14" width="4" height="36" rx="1" fill="#f0ebe3"/>
+  <!-- Base -->
+  <rect x="20" y="48" width="24" height="4" rx="2" fill="#f0ebe3"/>
+  <!-- Top beam -->
+  <rect x="10" y="14" width="44" height="3" rx="1.5" fill="#f0ebe3"/>
+  <!-- Top circle -->
+  <circle cx="32" cy="13" r="4" fill="#d4a94a"/>
+  <!-- Left pan -->
+  <line x1="14" y1="17" x2="14" y2="30" stroke="#f0ebe3" stroke-width="1.5"/>
+  <path d="M6 30 Q14 38 22 30" fill="none" stroke="#d4a94a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Right pan -->
+  <line x1="50" y1="17" x2="50" y2="30" stroke="#f0ebe3" stroke-width="1.5"/>
+  <path d="M42 30 Q50 38 58 30" fill="none" stroke="#d4a94a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Left chains -->
+  <line x1="10" y1="17" x2="6" y2="30" stroke="#f0ebe3" stroke-width="1"/>
+  <line x1="18" y1="17" x2="22" y2="30" stroke="#f0ebe3" stroke-width="1"/>
+  <!-- Right chains -->
+  <line x1="46" y1="17" x2="42" y2="30" stroke="#f0ebe3" stroke-width="1"/>
+  <line x1="54" y1="17" x2="58" y2="30" stroke="#f0ebe3" stroke-width="1"/>
+</svg>
